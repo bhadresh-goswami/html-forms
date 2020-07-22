@@ -1,0 +1,9 @@
+section{    
+    display: inline-block;    
+    float: left;
+    text-align: center;
+    margin: 10px;
+    padding: 100px;
+    background-color: blue;
+    color: white;
+}
